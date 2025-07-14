@@ -1,0 +1,12 @@
+{
+  "name": "show-do-milhao",
+  "version": "1.0.0",
+  "description": "Atividade #08 da disciplina de Desenvolvimento Web",
+  "main": "jogo.js",
+  "scripts": {
+    "start": "node jogo.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
