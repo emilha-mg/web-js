@@ -102,7 +102,6 @@ node index.js
 
 ## 📚 Créditos e Fontes de Referência
 
-- [MDN Web Docs – readline](https://developer.mozilla.org/en-US/docs/Web/API/Readline)
 - [Documentação oficial do Node.js](https://nodejs.org/en/)
 - Perguntas baseadas em conhecimentos gerais e cultura brasileira
 
